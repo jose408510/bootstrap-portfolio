@@ -1,0 +1,102 @@
+/* .joe{
+    color: coral;
+    text-align: center;
+    width: 100%;
+    height: 110px;
+    background-color: floralwhite;
+    position: absolute
+}
+.me{
+    height: 70px;
+    width: 300px;
+    background-color: floralwhite;
+    margin-left: 100px;
+    padding-top: 40px;
+    font-size: 30px;
+    float: left;
+    font-family: Georgia;
+} */
+.next{
+    color: coral;
+    font-family:sans-serif;
+    float: right;
+    padding-left: 700px;
+}
+.some{
+    color: coral;
+    font-family:sans-serif;
+    float: right;
+}
+.last{
+    color: coral;
+    font-family:sans-serif;
+    float: right;
+}
+.all{
+    width: 100%;
+    height: 1080px;
+    background-color: darkslategray;
+
+}
+.inside{
+    height: 800px;
+    margin-left: 100px;
+    width: 960px;
+    background-color: floralwhite;
+    position: absolute;
+    margin-top: 160px
+}
+.itsjo{
+    height: 20px;
+    width: 145px;
+    padding: 50px;
+    color: coral;
+    font-size: 35px;
+}
+hr{
+    height: 2px;
+    width: 90%;
+    background-color: #dddddd;
+}
+
+.form-group{
+    margin-left: 50px;
+    width: 300px;
+}
+.form-control2{
+    padding: 100px;
+}
+.exampleFormControlInput1{
+    color: coral;
+    background-color: red;
+}
+
+.btn{
+    color: coral;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.bottom{
+    height: 20px;
+    width: 100%;
+    background: coral;
+    color: darkslategray;
+    text-align: center;
+}
+.space{
+    height: 100px;
+    background-color: floralwhite;
+    color: coral;
+    padding-left: 100px;
+}
+body{
+    color:coral;
+}
+.navbar-light .navbar-brand{
+    color: coral;
+}
+.bg-light {
+    background-color: floralwhite!important;
+
+}
