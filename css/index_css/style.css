@@ -1,21 +1,4 @@
-/* .joe{
-    color: coral;
-    text-align: center;
-    width: 100%;
-    height: 110px;
-    background-color: floralwhite;
-    position: absolute
-}
-.me{
-    height: 70px;
-    width: 300px;
-    background-color: floralwhite;
-    margin-left: 100px;
-    padding-top: 40px;
-    font-size: 30px;
-    float: left;
-    font-family: Georgia;
-} */
+
 .next{
     color: coral;
     font-family:sans-serif;
@@ -91,6 +74,7 @@ hr{
 }
 body{
     color:coral;
+    width: 100%;
 }
 .navbar-light .navbar-brand{
     color: coral;
@@ -101,6 +85,10 @@ body{
 .spacebar{
     margin-left: 50px;
 }
-.money{
-    
+.card{
+    margin-left: 50px;
+    display: -webkit-inline-box;
+}
+.card-text{
+    width: 500px;
 }
